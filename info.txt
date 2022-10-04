@@ -1,0 +1,1 @@
+Le model MVC va permettre de separer les langages

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+
+<config>
+<!-- les infos ci dessous concerne le projet en local.-->
+<!--Le jour de la mise en ligne, il faudra les modifier par celle fournies par votre hébergeur-->
+    <host>localhost</host>
+    <dbname>oo_employe</dbname>
+    <user>root</user>
+    <password>amilgaoul1C+</password>
+    <table>employe</table>
+    
+</config>
